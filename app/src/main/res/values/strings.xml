@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Google Play</string>
+    <string name="search_for_apps_and_games"><![CDATA[Search apps & games]]></string>
+    <string name="games">Games</string>
+    <string name="apps">Apps</string>
+    <string name="movies">Movies</string>
+    <string name="books">books</string>
+</resources>
