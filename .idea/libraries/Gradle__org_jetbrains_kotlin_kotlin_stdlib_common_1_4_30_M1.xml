@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.4.30-M1@jar">
+  <library name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.4.30-M1" type="kotlin.common">
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.4.30-M1/da54d1cb6e2841cfb9407fca3bfc34383a031cf5/kotlin-stdlib-common-1.4.30-M1.jar!/" />
     </CLASSES>
